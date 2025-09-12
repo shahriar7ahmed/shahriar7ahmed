@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&size=30&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shahriar+Ahmed;Full+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Shahriar Ahmed</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh.</h3>
 
