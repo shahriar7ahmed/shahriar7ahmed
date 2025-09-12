@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&size=30&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shahriar+Ahmed;Full+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&height=70&lines=Hi+👋,+I'm+Shahriar+Ahmed;Full+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Tech+Content+Creator+🎥;Open+Source+Contributor+🌍;Always+Learning+New+Things+🚀;Warning%3A+I+debug+better+with+coffee+☕😂" alt="Typing SVG" />
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Shahriar Ahmed</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh.</h3>
