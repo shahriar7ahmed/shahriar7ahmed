@@ -9,9 +9,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Shahriar%20Ahmed%20💻&fontSize=50&fontColor=ffffff&animation=wave&desc=Full+Stack+Developer+|+ML+Enthusiast+|+Tech+Creator&descSize=22&descAlignY=55&animationDuration=2000" />
-</p>
 
 
 ## 👨‍💻 About Me
