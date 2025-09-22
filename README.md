@@ -24,7 +24,7 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
-<a href="[https://linkedin.com/in/shahriar-ahmed](https://www.linkedin.com/in/shahriar-ahmed-405261347/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahriar-ahmed-405261347/"(https://www.linkedin.com/in/shahriar-ahmed-405261347/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://facebook.com/ahmed.shahriar.plabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@code_se7en33z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
 </p>
