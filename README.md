@@ -9,10 +9,7 @@
 </p>
 
 ---
-<!-- Tech Banner -->
-<p align="center">
-  <img src="https://wallpapercave.com/wp/wp4056410.jpg" alt="Tech Banner" width="100%" />
-</p>
+
 
 
 
