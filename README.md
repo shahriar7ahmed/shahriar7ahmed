@@ -9,6 +9,10 @@
 </p>
 
 ---
+<!-- Tech Banner -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1581090700227-9b1d019a78c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzI4Njd8MHwxfHNlYXJjaHwxfHx0ZWNoJTIwY29kaW5nJTIwd29ya2Zsb3d8ZW58MHx8fHwxNjk1MzQ3NzQ5&ixlib=rb-4.0.3&q=80&w=1400" alt="Tech Banner" width="100%" />
+</p>
 
 
 ## 👨‍💻 About Me
